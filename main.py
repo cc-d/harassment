@@ -61,7 +61,7 @@ def build_readme(repo_path: str = '.') -> None:
             for file in files:
                 if file.endswith(".txt"):
                     rel_path = os.path.relpath(os.path.join(root, file), repo_path)
-                    readme.write(f"- [{file}](/{rel_path}) " + getcontent(op.abspath(rel_path))[0:50])
+                    readme.write(f"- [{file}](/{rel_path}) " + getcontent(op.abspath(rel_path))[0:10])
 
 
 _BUILTINS = [
