@@ -32,7 +32,7 @@ def build_readme(repo_path: str = '.'):
     with open(readme_path, "w") as readme:
         readme.write("# Safety Log\n\n")
         for root, _, files in os.walk(repo_path):
-            for file in files:
+            for file in sorted(files):
                 if file.endswith(".txt"):
                     rel_path = os.path.relpath(op.join(root, file), repo_path)
                     content = getcontent(op.join(root, file))
