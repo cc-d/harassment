@@ -41,10 +41,10 @@ def main():
 
     with open(newname(), 'w') as f:
         newinp = getinput()
-        if not newinp.strip().replace('\r\n','').replace('\n',''):
+        if newinp.strip().replace('\r\n','').replace('\n',''):
+            f.write(newinp + '\n')
             build_readme()
         else:
-            f.write(newinp + '\n')
             build_readme()
         print('\n')
 
