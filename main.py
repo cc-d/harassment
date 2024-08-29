@@ -36,7 +36,7 @@ def build_readme(repo_path: str = '.'):
                 if file.endswith(".txt"):
                     rel_path = os.path.relpath(op.join(root, file), repo_path)
                     preview = getcontent(op.join(root, file))[:10] + '...'
-                    readme.write(f"- [{file}]({rel_path}) {preview}\n")
+                    readme.write(f"- [{file}](/{rel_path}) {preview}\n")
 
 def main():
     newinp = getinput()
