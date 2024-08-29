@@ -40,8 +40,26 @@ def getinput():
 def main():
 
     with open(newname(), 'w') as f:
-        f.write(getinput() + '\n')
+        newinp = getinput()
+        if not newinp.strip().replace('\r\n','').replace('\n',''):
+            build_readme()
+        else:
+            f.write(newinp + '\n')
+            build_readme()
         print('\n')
+
+def build_readme(repo_path: str = '.') -> None:
+    readme_path = op.join(op.abspath(repo_path), "README.md")
+    
+    with open(readme_path, "w") as readme:
+        readme.write("# Text Files\n\n")
+        
+        for root, _, files in os.walk(repo_path):
+            for file in files:
+                if file.endswith(".txt"):
+                    rel_path = os.path.relpath(os.path.join(root, file), repo_path)
+                    readme.write(f"- [{file}]({rel_path})\n")
+
 
 _BUILTINS = [
     name for name in dir(__builtins__) if callable(__builtins__.__dict__.get(name))
