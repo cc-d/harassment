@@ -6,12 +6,20 @@ from logfunc import logf
 from datetime import datetime as dt
 from datetime import timezone as tz
 from datetime import UTC
+from inspect import iscoroutinefunction as iscoroutine, isfunction as isfunc
 
-@logf()
+
+def apply_logf_all(scope=locals(), *args, **kwargs):
+    for fstr in scope:
+        f = scope.get(fstr)
+        if isfunc(f) or iscoroutine(f):
+            f = logf(**kwargs)(f)
+
+
+
 def newname():
     return dt.now(UTC).isoformat().split('.')[0] + '.txt'
 
-@logf()
 def getinput():
     inp = []
     while True:
@@ -30,4 +38,5 @@ def main():
         print('\n')
 
 if __name__ == '__main__':
+    apply_logf_all(logf_use_print=True)
     main()
