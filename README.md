@@ -1,10 +1,4 @@
 # Text Files
 
-- [2024-08-29T18:23:28.txt](/2024-08-29T18:23:28.txt)
-- [2024-08-29T18:15:12.txt](/2024-08-29T18:15:12.txt)
-- [2024-08-29T17:26:02.txt](/2024-08-29T17:26:02.txt)
-- [2024-08-29T18:25:24.txt](/2024-08-29T18:25:24.txt)
-- [2024-08-29T18:25:56.txt](/2024-08-29T18:25:56.txt)
-- [2024-08-29T17:13:03.txt](/2024-08-29T17:13:03.txt)
-- [2024-08-29T18:21:19.txt](/2024-08-29T18:21:19.txt)
-- [2024-08-29T17:27:03.txt](/2024-08-29T17:27:03.txt)
+- [2024-08-29T18:23:28.txt](/2024-08-29T18:23:28.txt) The harassment has intensified to a point it's nev- [2024-08-29T18:15:12.txt](/2024-08-29T18:15:12.txt) The threats seem to be intensifying today. Scary.
+- [2024-08-29T17:26:02.txt](/2024-08-29T17:26:02.txt) The harrassment seems like it is escalating today.- [2024-08-29T18:25:24.txt](/2024-08-29T18:25:24.txt) - [2024-08-29T18:25:56.txt](/2024-08-29T18:25:56.txt) - [2024-08-29T17:13:03.txt](/2024-08-29T17:13:03.txt) Currently in the hotel lobby trying to concentrate- [2024-08-29T18:21:19.txt](/2024-08-29T18:21:19.txt) - [2024-08-29T18:27:54.txt](/2024-08-29T18:27:54.txt) - [2024-08-29T17:27:03.txt](/2024-08-29T17:27:03.txt) I am currently in the pony soldier inn in Portland
