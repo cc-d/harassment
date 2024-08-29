@@ -7,9 +7,6 @@ from datetime import datetime as dt
 from datetime import timezone as tz
 from datetime import UTC
 
-#os.environ['LOGF_USE_PRINT'] = 'True'
-
-
 @logf()
 def newname():
     return dt.now(UTC).isoformat().split('.')[0] + '.txt'
