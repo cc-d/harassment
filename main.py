@@ -51,8 +51,21 @@ def main():
             build_readme()
         print('\n')
 
+def cleanfiles(dpath: str = op.abspath('.')):
+    removed = []
+    for root, _, files in os.walk(dpath):
+            for file in files:
+                if file.endswith(".txt"):
+                    if not getcontent(file).replace('\r\n','').replace('\n',''):
+                        removed.append(file)
+                        os.remove(file)
+    print('removed: ', removed)
+                    
+
 def build_readme(repo_path: str = '.') -> None:
     readme_path = op.join(op.abspath(repo_path), "README.md")
+
+    cleanfiles()
     
     with open(readme_path, "w") as readme:
         readme.write("# Text Files\n\n")
