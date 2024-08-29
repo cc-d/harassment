@@ -30,7 +30,7 @@ def build_readme(repo_path: str = '.'):
     cleanfiles()
     readme_path = op.join(repo_path, "README.md")
     with open(readme_path, "w") as readme:
-        readme.write("# Text Files\n\n")
+        readme.write("# Safety Log\n\n")
         for root, _, files in os.walk(repo_path):
             for file in files:
                 if file.endswith(".txt"):

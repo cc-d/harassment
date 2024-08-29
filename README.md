@@ -1,4 +1,4 @@
-# Text Files
+# Safety Log
 
 - [2024-08-29T18:23:28.txt](/2024-08-29T18:23:28.txt) The harassment has intensified to a point it's never been at before.
 
