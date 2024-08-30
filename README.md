@@ -48,3 +48,4 @@
 
 - [2024-08-30T09:17:33.txt](/2024-08-30T09:17:33.txt) I have had my documents stolen, my methods of payments stolen, my prescription medications stolen.
 
+- [2024-08-30T10:13:05.txt](/2024-08-30T10:13:05.txt) I have been harassed out of multiple hotel rooms, and threatened. SInce my identity documents have been stolen, I have been unable to buy any sort of transit. I have been threatened with being shot on a walk to OSHU, being thrown over a cliff, being shot through windows. I have been gaslit into thinking that my dog had been shot, and then mocked as I cried afterwards in confusion. I have been threatened with false imprisonment, false warrants, fa... pretty much everything. Even as I write this I...
