@@ -36,3 +36,5 @@
 
 - [2024-08-30T01:59:11.txt](/2024-08-30T01:59:11.txt) I'm in fear for my safety. 
 
+- [2024-08-30T04:14:03.txt](/2024-08-30T04:14:03.txt) I hope to make it throughout the night safely, I bought an emergency/backup phone both to preserve my sessions, as well as to have a device to call 911 from incase my phone is stolen/compromised. This has been used to threaten me, as I've been threatened every day throughout the past roughly ~2 months.
+
