@@ -38,3 +38,13 @@
 
 - [2024-08-30T04:14:03.txt](/2024-08-30T04:14:03.txt) I hope to make it throughout the night safely, I bought an emergency/backup phone both to preserve my sessions, as well as to have a device to call 911 from incase my phone is stolen/compromised. This has been used to threaten me, as I've been threatened every day throughout the past roughly ~2 months.
 
+- [2024-08-30T09:13:10.txt](/2024-08-30T09:13:10.txt) I am being mocked currently, saying that I need to ensure the integrity of my stuff, threatening to illegally tamper with evidence to throw me under the bus.
+
+- [2024-08-30T09:14:15.txt](/2024-08-30T09:14:15.txt) As a rough guess, 40% of the people involved in harassing me voluntarily stopped doing so.
+
+- [2024-08-30T09:15:36.txt](/2024-08-30T09:15:36.txt) I have been mocked relentlessly for 2 months, I have not even been able to sleep, my teeth have been ground down from the stress, I have lost my job, this was all enabled by an incesant stream of 24/7 harassment.ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ50YQIjJ0MCNdZVrTrw7IYA0bQlD/K4PcJpf31EM5dV cary@hplap
+
+- [2024-08-30T09:16:50.txt](/2024-08-30T09:16:50.txt) I have details as to the specifics of the technologies involved in harassing me, technologies which will fundamentally transform society. I will not elaborate on those here, past emphasizing their usage is an absolutely travesty against anybody. Nobody deserves to be subjected to this.
+
+- [2024-08-30T09:17:33.txt](/2024-08-30T09:17:33.txt) I have had my documents stolen, my methods of payments stolen, my prescription medications stolen.
+
