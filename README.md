@@ -26,3 +26,11 @@
 
 - [2024-08-29T18:41:14.txt](/2024-08-29T18:41:14.txt) I am getting off public transportation now. So far all is still good, I am still healthy. 
 
+- [2024-08-30T01:38:00.txt](/2024-08-30T01:38:00.txt) I am currently in starbucks by zaggs in Portland. The harassment has continued all day, I fear for my safety. I hope to be able to write another message.
+
+- [2024-08-30T01:38:28.txt](/2024-08-30T01:38:28.txt) I'm being told these messages won't save me. It's been 2 months of solid harassment. I'm not sure who to turn to for help, or what I can do to stop it.
+
+- [2024-08-30T01:39:49.txt](/2024-08-30T01:39:49.txt) I'm being targetted ebcause I am up here with few friends, no family, I've lost my job, 30lbs, and yet the harassment continues.
+
+- [2024-08-30T01:40:28.txt](/2024-08-30T01:40:28.txt) My name is Cary Carter, phone # is 931-787-4248. My mom is Charlotte Carter, 9317874230. All I want is for the harassment to stop.
+
